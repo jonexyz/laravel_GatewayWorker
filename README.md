@@ -1,0 +1,2 @@
+# laravel_GatewayWorker
+在laravel框架中使用基于workerman开发的GatewayWorker组件从而使用长连接功能操作DEMO
