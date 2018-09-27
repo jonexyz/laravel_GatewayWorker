@@ -40,8 +40,8 @@
     
     3)测试效果 在浏览器开启两个窗口(注意确认已开启websocket对外的端口号,此处demo中应服务器应放行7272端口，测试前请开启服务端的websocket服务器)
         
-        http://local.pha.com/index/index/111/222
-        http://local.pha.com/index/index/222/111
+        http://域名/index/index/111/222
+        http://域名/index/index/222/111
     
    
 9、websocket服务器相关操作命令
